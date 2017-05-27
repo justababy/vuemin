@@ -1,0 +1,8 @@
+{
+  "ret_code": 1001,
+  "ret_msg": "返回成功",
+  "data": [
+    "AUTH_HOME",
+    "AUTH_LEVEL_1"
+  ]
+}
